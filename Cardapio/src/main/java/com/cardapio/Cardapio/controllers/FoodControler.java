@@ -23,6 +23,7 @@ public class FoodControler {
         foodRepository.save(foodData);
         return;
     }
+
     @CrossOrigin(origins = "*", allowedHeaders = "*")
     @GetMapping
     public List<FoodResponseDTO> getAll() {

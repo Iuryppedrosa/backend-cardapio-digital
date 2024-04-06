@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Cardapio.iml" filepath="$PROJECT_DIR$/.idea/Cardapio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cardapio/Cardapio.iml" filepath="$PROJECT_DIR$/Cardapio/Cardapio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cardapio Back.iml" filepath="$PROJECT_DIR$/.idea/Cardapio Back.iml" />
     </modules>
   </component>
 </project>

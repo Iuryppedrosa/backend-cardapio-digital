@@ -1,4 +1,4 @@
 package com.cardapio.Cardapio.entites;
 
-public record FoodRequestDTO (String title, String img, Integer price){
+public record FoodRequestDTO (String title, String image, Integer price){
 }
